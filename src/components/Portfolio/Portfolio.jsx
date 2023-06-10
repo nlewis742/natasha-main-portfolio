@@ -31,7 +31,7 @@ function Portfolio() {
 
       
             <h2>Text Editor</h2>
-            <p>A basic text editor aplication that words on and offline</p>
+            <p>A basic text editor application that works on and offline</p>
             </a>
         </div>
 
