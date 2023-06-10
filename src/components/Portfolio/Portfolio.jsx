@@ -6,6 +6,13 @@ function Portfolio() {
   return (
     <div className="portfolio">
         <h1>Portfolio Component</h1>
+
+        <article>
+        <div className="portfolio__item">
+            <h2>Project 1</h2>
+            <p>Project 1 description</p>
+        </div>
+</article>
     </div>
   );
 }

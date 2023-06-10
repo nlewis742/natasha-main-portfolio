@@ -6,7 +6,7 @@ function Nav(props) {
   return (
     <div className="nav">
       <div className="nav__logo">
-        <img src="" alt="logo" />
+     
         <h1>{props.data}</h1>
       </div>
       <div className="nav__links">
