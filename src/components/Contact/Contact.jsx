@@ -22,7 +22,7 @@ function Contact() {
 
   return (
     <div className="contact">
-        <h1>Contact Component</h1>
+        <h1>Contact Me:</h1>
         <form onSubmit={handleSubmit}>
             <label htmlFor="name">Name</label>
             <input type="text" id="name" name="name" value={contact.name} onChange={(e) => setContact({ ...contact, name: e.target.value })} />     
