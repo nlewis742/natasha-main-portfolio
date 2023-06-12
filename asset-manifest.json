@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/natasha-main-portfolio/static/css/main.4393722f.css",
+    "main.js": "/natasha-main-portfolio/static/js/main.e21fc2e0.js",
+    "index.html": "/natasha-main-portfolio/index.html",
+    "main.4393722f.css.map": "/natasha-main-portfolio/static/css/main.4393722f.css.map",
+    "main.e21fc2e0.js.map": "/natasha-main-portfolio/static/js/main.e21fc2e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4393722f.css",
+    "static/js/main.e21fc2e0.js"
+  ]
+}
